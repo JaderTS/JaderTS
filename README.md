@@ -1,5 +1,5 @@
 <h1 align="center">Jader Cunha</h1>
-<h3 align="center">Sr. QA Engineer & Tech Lead · Dell Technologies · Porto Alegre, BR</h3>
+<h3 align="center">Sr. QA Engineer & Tech Lead · Dell Technologies</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jadercunha/">
