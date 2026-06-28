@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/🏆%20Dell%20Innovation%20Award-2026-FFD700?style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JaderTS&color=0A66C2&style=flat&label=Profile+Views" alt="Profile views" />
+</p>
+
 ---
 
 Sr. QA Engineer & Tech Lead with 8+ years of experience in backend, API, and automation testing across microservices and distributed systems. Currently at **Dell Inc.**, leading teams of 8–15 engineers on global projects — focused on automation frameworks (Cypress, Playwright), CI/CD pipelines, and embedding quality at every stage of the SDLC.
@@ -62,13 +66,19 @@ Sr. QA Engineer & Tech Lead with 8+ years of experience in backend, API, and aut
 
 ---
 
-## 📌 Pinned repositories
+## 📌 Featured Projects
 
-> Projects pinned below — from a full automation framework to experiments with Node.js, Python, and C#.
+| Repository | Description | Stack |
+|------------|-------------|-------|
+| [automation](https://github.com/JaderTS/automation) | Production-ready E2E + REST API test framework with Page Object Model and full CI/CD pipeline | Playwright · TypeScript · GitHub Actions |
+| [cypress-portfolio](https://github.com/JaderTS/cypress-portfolio) | Cypress automation portfolio showcasing component and E2E test strategies | Cypress · JavaScript |
+| [KneatSoftwareChallenge](https://github.com/JaderTS/KneatSoftwareChallenge) | Cross-browser automation with Selenium Grid and BrowserStack integration | Java · Selenium · Cucumber · TestNG · BrowserStack |
+| [test-automation-desafio-outsera](https://github.com/JaderTS/test-automation-desafio-outsera) | Test suite with automated Allure reports published via GitHub Pages | JavaScript · GitHub Actions · Allure |
+| [WorkingJUnitMockitoTDD](https://github.com/JaderTS/WorkingJUnitMockitoTDD) | Hands-on study project exploring JUnit, Mockito, and Test-Driven Development | Java · JUnit · Mockito · TDD |
 
 ---
 
-## 📚 Currently learning
+## 📚 Currently Learning
 
 - Advanced Playwright with TypeScript in CI/CD pipelines
 - Smart contract testing and Web3/blockchain environments
@@ -82,6 +92,17 @@ Sr. QA Engineer & Tech Lead with 8+ years of experience in backend, API, and aut
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=JaderTS&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaderTS&layout=compact&theme=default&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JaderTS&theme=default&hide_border=true" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/jadercunha](https://www.linkedin.com/in/jadercunha/)
+- Email: jader-fernandes@live.com
 
 ---
 
